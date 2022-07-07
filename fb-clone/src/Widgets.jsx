@@ -9,7 +9,7 @@ function Widgets() {
         title='widgets'
         width='340'
         height='100%'
-        style={{ border: 'none', overflow: 'hidden' }}
+        style={{ border: 'none', overflow: 'hidden', borderRadius: '15px' }}
         scrolling='no'
         frameBorder='0'
         allowFullScreen={true}
