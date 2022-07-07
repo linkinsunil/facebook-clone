@@ -17,13 +17,9 @@ function Login() {
           type: actionTypes.SET_USER,
           user: result.user,
         });
-        console.log(result.user);
       })
       .catch(err => alert(err.message));
   };
-
-  console.log('🟠', auth);
-  console.log('🟢', provider);
 
   return (
     <div className='login'>

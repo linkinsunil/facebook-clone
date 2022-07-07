@@ -6,16 +6,19 @@ import { users } from './data';
 function StoryReel() {
   return (
     <div className='storyReel'>
-      {users.map((user, idx) => {
-        return (
-          <Story
-            key={idx}
-            bgImage={user.bgImage}
-            src={user.profilePic}
-            title={user.name}
-          />
-        );
-      })}
+      {console.log(users)}
+      {users
+        .filter((item, idx) => idx < 5)
+        .map((user, idx) => {
+          return (
+            <Story
+              key={idx}
+              bgImage={user.bgImage}
+              profilePic={user.profilePic}
+              name={user.name}
+            />
+          );
+        })}
     </div>
   );
 }

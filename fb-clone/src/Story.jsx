@@ -3,6 +3,8 @@ import './Story.css';
 import { Avatar } from '@mui/material';
 
 function Story({ bgImage, profilePic, name }) {
+  //alert(profilePic);
+  // alert(name);
   return (
     <div style={{ backgroundImage: `url(${bgImage})` }} className='story'>
       <Avatar className='story__avatar' src={profilePic} />

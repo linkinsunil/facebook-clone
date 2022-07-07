@@ -7,12 +7,12 @@ const users = [
   {
     name: "Gaurav Sen",
     profilePic: "https://pbs.twimg.com/profile_images/1540525072938840064/MQ31zAjH_400x400.jpg",
-    bgImage: "https://scontent-del1-1.xx.fbcdn.net/v/t1.6435-9/71090123_10221348669812015_4165920094444060672_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=174925&_nc_ohc=ByxLHfrFyBUAX9xEcC2&_nc_ht=scontent-del1-1.xx&oh=00_AT96m_YXD1LadguXs-BYzBuSzMbx7e48v2V-btLs5WPP2g&oe=62E9E6FC"
+    bgImage: "https://scontent.flko1-1.fna.fbcdn.net/v/t39.30808-6/244620319_10227939615941549_6993671977465393404_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=AD_Em-fxC0QAX8Axo5m&tn=hS-g5n7ibSJqg2XE&_nc_ht=scontent.flko1-1.fna&oh=00_AT_EHLLWuvQIrCiifqsGeZWgnOYKxvU5W2v-QETkyHj9MA&oe=62CC0A94"
   },
   {
     name: "Tanay Pratap",
     profilePic: "https://pbs.twimg.com/profile_images/1501178147420585987/5_2plEJW_400x400.jpg",
-    bgImage: "https://scontent-del1-1.xx.fbcdn.net/v/t1.6435-9/30725347_10214112574801787_6240570404298031104_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=174925&_nc_ohc=lpnunK0yncoAX8cTCzO&tn=hS-g5n7ibSJqg2XE&_nc_ht=scontent-del1-1.xx&oh=00_AT9FcZGLyjNGCQmJRNBN0GbKu7C4m0B_mA98kE3AnbF69g&oe=62EAA864"
+    bgImage: "https://scontent.flko1-1.fna.fbcdn.net/v/t1.6435-9/88091782_10219293754288036_9064821811589414912_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=L1NqLrDJBssAX8TcMI3&_nc_ht=scontent.flko1-1.fna&oh=00_AT_plmEj2Ez8xkTnvXE7LKiEnwIAJ0L5Rqvbe-W038hCmQ&oe=62EDD8EA"
   },
   {
     name: "Akshay Saini",
